@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
 
-namespace Multithreading_treads
+
+
+namespace Multithreading_threads
 {
     class Program
     {
